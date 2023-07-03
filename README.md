@@ -1,4 +1,4 @@
-# flower
+# flower ：Vue2+axiso+html+css+js
 ## 上线地址 http://115.159.222.245:8001
 - 轮播图
 - 加入购物车
